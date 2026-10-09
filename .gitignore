@@ -1,0 +1,111 @@
+# ==============================
+
+# Entornos virtuales
+
+# ==============================
+
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+
+# Python
+
+# ==============================
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# ==============================
+
+# Variables de entorno y secretos
+
+# ==============================
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ==============================
+
+# Jupyter Notebook
+
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+
+# Modelos y checkpoints
+
+# ==============================
+
+models/
+checkpoints/
+checkpoint-*/
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# ==============================
+
+# Caché de Hugging Face
+
+# ==============================
+
+.cache/
+cache/
+huggingface_cache/
+wandb/
+
+# ==============================
+
+# Logs y resultados temporales
+
+# ==============================
+
+logs/
+runs/
+lightning_logs/
+*.log
+events.out.tfevents.*
+
+# ==============================
+
+# Archivos temporales
+
+# ==============================
+
+*.tmp
+*.temp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+
+# IDE y editores
+
+# ==============================
+
+.vscode/
+.idea/
+
+# ==============================
+
+# Archivos locales de configuración
+
+# ==============================
+
+*.local
