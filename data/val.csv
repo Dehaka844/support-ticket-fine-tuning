@@ -1,0 +1,751 @@
+id,text,category,confidence
+4791,I do not want to renew my subscription.,cancellation,3
+4488,Could you add a mobile application to the application?,feature_request,3
+1780,How can I change my password?,account,5
+3270,I was charged the wrong amount.,billing,5
+1765,I forgot my password and cannot access my account.,account,5
+921,The software freezes when I open a document.,technical,5
+2931,I was charged the wrong amount.,billing,5
+534,The application is not working correctly when I save a project.,technical,5
+1061,There is a bug preventing me from export a report.,technical,5
+4012,I would like more information about your plans.,general,3
+2474,I need to update the email address on my profile.,account,3
+2601,I cannot access my account after changing my password.,account,4
+86,I am getting an error when I try to open a document.,technical,5
+4374,Please consider adding bulk file uploads in a future update.,feature_request,5
+4172,Can you give me more information about the service?,general,5
+1723,I forgot my password and cannot access my account.,account,5
+1047,There is a bug preventing me from download a file.,technical,5
+4466,Could you add additional export formats to the application?,feature_request,5
+2008,I need to update the email address on my profile.,account,5
+4923,I do not want to renew my subscription.,cancellation,5
+640,The software freezes when I open the dashboard.,technical,5
+42,Something is broken and I cannot upload a file.,technical,4
+2802,I do not recognize a charge on my account.,billing,3
+2357,How do I change my account permissions?,account,4
+192,The application is not working correctly when I open the dashboard.,technical,5
+2444,My account is locked and I cannot sign in.,account,4
+4241,How does the platform work?,general,3
+1539,I need to update the email address on my profile.,account,4
+4366,Could you implement calendar integration?,feature_request,2
+2640,How do I change my account permissions?,account,4
+2949,I need a copy of my invoice.,billing,4
+2394,My account is locked and I cannot sign in.,account,5
+3817,Where can I find the documentation?,general,2
+1871,I forgot my password and cannot access my account.,account,5
+320,The application crashes when I generate a document.,technical,5
+2873,How can I change my payment method?,billing,4
+4837,I want to close my account and cancel the service.,cancellation,4
+1447,I am getting an error when I try to save a project.,technical,4
+1269,I keep receiving an error while trying to save a project.,technical,5
+817,I am getting an error when I try to export a report.,technical,4
+3704,Where can I find more information about this product?,general,5
+3587,I was charged twice for my subscription.,billing,5
+3450,How can I change my payment method?,billing,4
+1608,I cannot access my account after changing my password.,account,4
+2500,How do I change my account permissions?,account,5
+4981,I do not want to renew my subscription.,cancellation,3
+4175,Can you tell me more about the platform?,general,3
+4015,Can you tell me more about the platform?,general,4
+417,The application is not working correctly when I upload a file.,technical,4
+229,The software freezes when I generate a document.,technical,5
+4619,Could you add calendar integration to the application?,feature_request,5
+272,Something is broken and I cannot open the dashboard.,technical,4
+3904,Can you tell me more about the platform?,general,4
+581,I am getting an error when I try to export a report.,technical,3
+2733,Why was I charged for this month?,billing,5
+3714,Can you give me more information about the service?,general,5
+4772,How do I terminate my subscription?,cancellation,2
+4647,Please consider adding an improved search system in a future update.,feature_request,5
+4674,Could you implement bulk file uploads?,feature_request,5
+3503,My payment was declined.,billing,5
+2053,I cannot log into my account.,account,3
+4675,Is it possible to add a mobile application?,feature_request,3
+3697,Can you explain how this works?,general,4
+1634,My account is locked and I cannot sign in.,account,5
+3008,I need a copy of my invoice.,billing,4
+1307,The software freezes when I upload a file.,technical,5
+2001,I need help updating my profile information.,account,5
+2887,The subscription price on my invoice is incorrect.,billing,5
+2570,I cannot access my account after changing my password.,account,5
+945,Something is broken and I cannot upload a file.,technical,4
+381,The application crashes when I open a document.,technical,5
+2117,How do I change my account permissions?,account,5
+3205,I was charged twice for my subscription.,billing,5
+4487,I would like the platform to support advanced reporting.,feature_request,5
+519,The application is not working correctly when I generate a document.,technical,5
+2204,My account is locked and I cannot sign in.,account,5
+3227,The subscription price on my invoice is incorrect.,billing,5
+3673,I would like more information about your plans.,general,3
+4321,Could you implement bulk file uploads?,feature_request,4
+1774,I need to update the email address on my profile.,account,5
+401,The software freezes when I upload a file.,technical,5
+902,I am getting an error when I try to import data.,technical,4
+4313,It would be useful to have a mobile application.,feature_request,5
+731,The application is not working correctly when I open the dashboard.,technical,5
+3159,The subscription price on my invoice is incorrect.,billing,5
+3872,I would like more information about your plans.,general,5
+2298,I cannot access my account after changing my password.,account,5
+167,The application crashes when I open a document.,technical,5
+4665,Is it possible to add advanced reporting?,feature_request,3
+4579,Please consider adding additional export formats in a future update.,feature_request,4
+4277,Where can I find more information about this product?,general,2
+4919,I do not want to renew my subscription.,cancellation,3
+3332,I was charged twice for my subscription.,billing,5
+927,The system stops working whenever I open a document.,technical,4
+2211,I cannot access my account after changing my password.,account,4
+2879,How can I change my payment method?,billing,3
+1175,The application crashes when I save a project.,technical,5
+2981,The subscription price on my invoice is incorrect.,billing,5
+3708,Where can I find the documentation?,general,4
+4499,Could you implement an improved search system?,feature_request,4
+1706,How do I change my account permissions?,account,3
+3892,Can you give me more information about the service?,general,3
+4535,I would like to request a new feature for custom notifications.,feature_request,5
+366,The application is not working correctly when I import data.,technical,5
+1857,My account is locked and I cannot sign in.,account,5
+2745,I was charged the wrong amount.,billing,5
+3203,The subscription price on my invoice is incorrect.,billing,5
+2753,How can I change my payment method?,billing,4
+4196,Where can I find the documentation?,general,5
+3088,I was charged the wrong amount.,billing,5
+4797,I do not want to renew my subscription.,cancellation,2
+4076,Can you explain how this works?,general,2
+4847,Please help me cancel my subscription.,cancellation,5
+1115,The application is not working correctly when I upload a file.,technical,5
+301,The application is not working correctly when I export a report.,technical,5
+2140,How can I change my password?,account,5
+4639,It would be useful to have additional export formats.,feature_request,3
+1925,I cannot access my account after changing my password.,account,5
+1139,The system stops working whenever I save a project.,technical,4
+2663,I need to update the email address on my profile.,account,4
+4918,How can I cancel my account?,cancellation,4
+4412,I think the platform would be better with additional export formats.,feature_request,5
+3783,I would like more information about your plans.,general,2
+3478,Why was I charged for this month?,billing,5
+1464,The application crashes when I export a report.,technical,5
+2261,How can I change my password?,account,5
+3881,Can you tell me more about the platform?,general,5
+3523,My payment was declined.,billing,4
+2630,My account is locked and I cannot sign in.,account,5
+2723,My payment was declined.,billing,5
+4176,I have a general question about the service.,general,5
+2818,I was charged the wrong amount.,billing,3
+4973,I do not want to renew my subscription.,cancellation,5
+3950,Where can I find more information about this product?,general,5
+684,I am getting an error when I try to open the dashboard.,technical,5
+1287,There is a bug preventing me from import data.,technical,4
+2215,I need help updating my profile information.,account,3
+4659,It would be useful to have additional export formats.,feature_request,3
+3989,Where can I find the documentation?,general,5
+2326,How can I change my password?,account,4
+1746,I need to update the email address on my profile.,account,4
+3074,I do not recognize a charge on my account.,billing,5
+4620,Please consider adding additional export formats in a future update.,feature_request,4
+3140,I was charged twice for my subscription.,billing,4
+3522,How can I change my payment method?,billing,5
+4962,I want to stop using the service.,cancellation,3
+2018,I forgot my password and cannot access my account.,account,4
+2625,I need help updating my profile information.,account,3
+3624,Where can I find more information about this product?,general,2
+3570,Why was I charged for this month?,billing,4
+1465,I am getting an error when I try to export a report.,technical,5
+339,The application crashes when I upload a file.,technical,5
+3065,I need a copy of my invoice.,billing,4
+343,There is a bug preventing me from import data.,technical,5
+4528,I would like the platform to support custom notifications.,feature_request,3
+3729,How does the platform work?,general,2
+809,The software freezes when I open the dashboard.,technical,5
+3943,I have a general question about the service.,general,4
+2852,I was charged twice for my subscription.,billing,5
+4429,I would like the platform to support advanced reporting.,feature_request,4
+1710,My account is locked and I cannot sign in.,account,5
+4128,I have a general question about the service.,general,3
+2040,I cannot log into my account.,account,5
+2256,How do I change my account permissions?,account,4
+1343,The application crashes when I download a file.,technical,5
+4725,Could you implement bulk file uploads?,feature_request,4
+1744,How do I change my account permissions?,account,4
+2708,I was charged the wrong amount.,billing,5
+3575,I was charged twice for my subscription.,billing,5
+791,There is a bug preventing me from generate a document.,technical,5
+4157,I have a general question about the service.,general,3
+4554,Could you implement calendar integration?,feature_request,3
+4779,I would like to cancel my plan.,cancellation,4
+1004,The application is not working correctly when I generate a document.,technical,4
+2795,The subscription price on my invoice is incorrect.,billing,5
+3230,Why was I charged for this month?,billing,5
+2552,How can I change my password?,account,3
+4186,Where can I find the documentation?,general,3
+4276,I would like more information about your plans.,general,3
+221,The application crashes when I generate a document.,technical,5
+2057,I cannot log into my account.,account,5
+2284,I cannot log into my account.,account,5
+806,I keep receiving an error while trying to upload a file.,technical,5
+1125,There is a bug preventing me from generate a document.,technical,5
+4357,Is it possible to add bulk file uploads?,feature_request,5
+2432,I cannot access my account after changing my password.,account,5
+3466,I was charged the wrong amount.,billing,3
+1819,How do I change my account permissions?,account,5
+3639,Where can I find the documentation?,general,4
+4753,How do I terminate my subscription?,cancellation,2
+515,The application is not working correctly when I open the dashboard.,technical,4
+2896,I was charged twice for my subscription.,billing,4
+1834,My account is locked and I cannot sign in.,account,5
+2732,I was charged twice for my subscription.,billing,4
+3208,Why was I charged for this month?,billing,4
+1677,How can I change my password?,account,5
+4146,Can you explain how this works?,general,4
+565,The application is not working correctly when I open a document.,technical,4
+259,The system stops working whenever I generate a document.,technical,4
+168,The system stops working whenever I open the dashboard.,technical,4
+3851,I would like more information about your plans.,general,3
+3741,I would like more information about your plans.,general,2
+465,The system stops working whenever I open the dashboard.,technical,4
+2670,I forgot my password and cannot access my account.,account,5
+1523,My account is locked and I cannot sign in.,account,5
+2398,I cannot access my account after changing my password.,account,5
+2435,I forgot my password and cannot access my account.,account,4
+4125,How does the platform work?,general,3
+4323,Is it possible to add additional export formats?,feature_request,2
+2368,How do I change my account permissions?,account,4
+1025,The system stops working whenever I export a report.,technical,5
+2575,My account is locked and I cannot sign in.,account,3
+3621,Can you explain how this works?,general,3
+834,Something is broken and I cannot import data.,technical,5
+1748,I need help updating my profile information.,account,5
+2324,I cannot log into my account.,account,5
+3016,I was charged the wrong amount.,billing,4
+801,The system stops working whenever I download a file.,technical,4
+3688,Where can I find the documentation?,general,4
+106,The software freezes when I save a project.,technical,5
+2649,How do I change my account permissions?,account,5
+428,The system stops working whenever I import data.,technical,4
+1106,The software freezes when I generate a document.,technical,4
+2618,How can I change my password?,account,5
+3491,I was charged the wrong amount.,billing,5
+3873,Can you give me more information about the service?,general,3
+1844,I forgot my password and cannot access my account.,account,5
+4269,I have a general question about the service.,general,3
+145,Something is broken and I cannot upload a file.,technical,5
+3773,How does the platform work?,general,4
+954,I keep receiving an error while trying to open the dashboard.,technical,5
+3146,My payment was declined.,billing,5
+3728,Where can I find more information about this product?,general,4
+3755,Can you tell me more about the platform?,general,4
+1797,How do I change my account permissions?,account,5
+1623,How do I change my account permissions?,account,4
+2310,I forgot my password and cannot access my account.,account,5
+1728,I need help updating my profile information.,account,5
+1324,I am getting an error when I try to generate a document.,technical,5
+1473,The application crashes when I open the dashboard.,technical,5
+599,There is a bug preventing me from export a report.,technical,3
+3256,I was charged twice for my subscription.,billing,5
+944,I am getting an error when I try to import data.,technical,4
+1105,I keep receiving an error while trying to generate a document.,technical,4
+4236,I would like more information about your plans.,general,4
+953,There is a bug preventing me from upload a file.,technical,5
+379,I keep receiving an error while trying to upload a file.,technical,4
+3072,Why was I charged for this month?,billing,4
+311,The application crashes when I import data.,technical,5
+446,The application crashes when I download a file.,technical,4
+3057,I was charged twice for my subscription.,billing,5
+1028,The system stops working whenever I generate a document.,technical,4
+2311,How can I change my password?,account,3
+1640,I need to update the email address on my profile.,account,5
+4814,I want to cancel my subscription.,cancellation,4
+329,I am getting an error when I try to open a document.,technical,4
+1157,The system stops working whenever I open the dashboard.,technical,5
+605,The application is not working correctly when I import data.,technical,4
+2921,Why was I charged for this month?,billing,4
+3350,I do not recognize a charge on my account.,billing,4
+1063,The application crashes when I upload a file.,technical,5
+4296,I have a general question about the service.,general,3
+2614,I cannot log into my account.,account,4
+644,I keep receiving an error while trying to open a document.,technical,5
+2820,I need a copy of my invoice.,billing,5
+2137,I cannot access my account after changing my password.,account,5
+4363,Is it possible to add an improved search system?,feature_request,4
+3176,Why was I charged for this month?,billing,5
+2824,The subscription price on my invoice is incorrect.,billing,5
+2177,I cannot access my account after changing my password.,account,5
+3807,Where can I find more information about this product?,general,5
+3561,The subscription price on my invoice is incorrect.,billing,4
+4273,Can you tell me more about the platform?,general,5
+1312,I keep receiving an error while trying to open the dashboard.,technical,5
+3322,Why was I charged for this month?,billing,5
+3157,My payment was declined.,billing,5
+2228,My account is locked and I cannot sign in.,account,5
+402,The system stops working whenever I open the dashboard.,technical,5
+1424,The software freezes when I open a document.,technical,4
+672,The system stops working whenever I open the dashboard.,technical,4
+2892,My payment was declined.,billing,5
+524,The system stops working whenever I open a document.,technical,3
+3878,How does the platform work?,general,2
+283,The software freezes when I open a document.,technical,5
+4026,Where can I find the documentation?,general,4
+3954,Where can I find the documentation?,general,4
+4646,I think the platform would be better with dark mode.,feature_request,5
+3378,I do not recognize a charge on my account.,billing,5
+3112,I do not recognize a charge on my account.,billing,4
+1166,The software freezes when I upload a file.,technical,5
+1146,The application crashes when I save a project.,technical,4
+2730,Why was I charged for this month?,billing,5
+188,I keep receiving an error while trying to upload a file.,technical,5
+4650,I would like to request a new feature for bulk file uploads.,feature_request,4
+1060,The software freezes when I upload a file.,technical,4
+442,The system stops working whenever I save a project.,technical,3
+1249,The application crashes when I open the dashboard.,technical,4
+3841,I would like more information about your plans.,general,2
+2650,How can I change my password?,account,5
+4064,I would like more information about your plans.,general,4
+2619,My account is locked and I cannot sign in.,account,5
+1695,I cannot log into my account.,account,5
+297,The application crashes when I open the dashboard.,technical,5
+1987,How do I change my account permissions?,account,3
+1132,I am getting an error when I try to open a document.,technical,5
+1884,I cannot log into my account.,account,5
+44,There is a bug preventing me from open a document.,technical,3
+1578,How can I change my password?,account,5
+3213,The subscription price on my invoice is incorrect.,billing,4
+1242,The software freezes when I download a file.,technical,4
+1915,I cannot log into my account.,account,4
+1566,How can I change my password?,account,5
+3698,I would like more information about your plans.,general,5
+2998,I do not recognize a charge on my account.,billing,4
+325,I keep receiving an error while trying to export a report.,technical,5
+697,I keep receiving an error while trying to save a project.,technical,4
+2902,I need a copy of my invoice.,billing,5
+4339,Could you add advanced reporting to the application?,feature_request,4
+1280,I am getting an error when I try to download a file.,technical,4
+1008,Something is broken and I cannot export a report.,technical,3
+1845,My account is locked and I cannot sign in.,account,4
+458,There is a bug preventing me from open the dashboard.,technical,5
+2665,How do I change my account permissions?,account,5
+3477,How can I change my payment method?,billing,4
+471,Something is broken and I cannot open a document.,technical,4
+1016,The application is not working correctly when I export a report.,technical,5
+2388,My account is locked and I cannot sign in.,account,4
+1499,The application is not working correctly when I upload a file.,technical,4
+3009,How can I change my payment method?,billing,5
+110,There is a bug preventing me from generate a document.,technical,4
+659,The software freezes when I upload a file.,technical,4
+2090,I cannot log into my account.,account,4
+449,The application is not working correctly when I open the dashboard.,technical,5
+1420,There is a bug preventing me from generate a document.,technical,5
+420,The application is not working correctly when I open a document.,technical,5
+185,The application is not working correctly when I open a document.,technical,5
+3635,Can you explain how this works?,general,4
+3226,I do not recognize a charge on my account.,billing,5
+3633,Where can I find more information about this product?,general,4
+3631,I have a general question about the service.,general,5
+831,The application is not working correctly when I download a file.,technical,4
+3867,Can you give me more information about the service?,general,4
+1450,The application crashes when I save a project.,technical,3
+4941,I do not want to renew my subscription.,cancellation,4
+4699,I would like the platform to support advanced reporting.,feature_request,4
+1303,The application crashes when I save a project.,technical,5
+4970,I want to close my account and cancel the service.,cancellation,3
+4151,Can you explain how this works?,general,2
+2812,Why was I charged for this month?,billing,4
+164,The software freezes when I import data.,technical,5
+3311,Why was I charged for this month?,billing,5
+1952,How can I change my password?,account,4
+1711,How can I change my password?,account,5
+2831,My payment was declined.,billing,5
+4608,Please consider adding dark mode in a future update.,feature_request,4
+1181,I am getting an error when I try to open the dashboard.,technical,5
+1093,I keep receiving an error while trying to download a file.,technical,5
+716,The application crashes when I upload a file.,technical,5
+2429,I need to update the email address on my profile.,account,4
+3200,How can I change my payment method?,billing,5
+3911,Can you tell me more about the platform?,general,4
+3135,How can I change my payment method?,billing,5
+1802,I cannot log into my account.,account,4
+3344,I do not recognize a charge on my account.,billing,4
+3279,My payment was declined.,billing,4
+191,The software freezes when I save a project.,technical,5
+1038,The software freezes when I upload a file.,technical,4
+759,The application is not working correctly when I download a file.,technical,4
+117,The software freezes when I import data.,technical,5
+1768,I cannot access my account after changing my password.,account,4
+3494,The subscription price on my invoice is incorrect.,billing,4
+4596,I think the platform would be better with additional export formats.,feature_request,5
+1214,The application is not working correctly when I generate a document.,technical,4
+2929,How can I change my payment method?,billing,4
+1808,I cannot access my account after changing my password.,account,4
+2309,My account is locked and I cannot sign in.,account,4
+2456,I need help updating my profile information.,account,5
+1667,I need help updating my profile information.,account,4
+1607,I cannot log into my account.,account,3
+1383,The software freezes when I open the dashboard.,technical,5
+4498,Please consider adding a mobile application in a future update.,feature_request,5
+3087,Why was I charged for this month?,billing,4
+1511,I need to update the email address on my profile.,account,4
+3591,My payment was declined.,billing,5
+1595,I cannot log into my account.,account,4
+2651,I cannot access my account after changing my password.,account,5
+2967,My payment was declined.,billing,5
+4908,Please help me cancel my subscription.,cancellation,5
+3837,Where can I find more information about this product?,general,3
+268,The system stops working whenever I open a document.,technical,4
+4206,Can you explain how this works?,general,3
+2893,I was charged the wrong amount.,billing,5
+2180,I forgot my password and cannot access my account.,account,5
+2110,How do I change my account permissions?,account,5
+3947,I would like more information about your plans.,general,2
+3618,Where can I find more information about this product?,general,3
+2460,I cannot access my account after changing my password.,account,5
+1997,I cannot log into my account.,account,5
+4589,I think the platform would be better with an improved search system.,feature_request,2
+3259,I do not recognize a charge on my account.,billing,5
+4815,How do I terminate my subscription?,cancellation,2
+930,There is a bug preventing me from open the dashboard.,technical,4
+2011,I need help updating my profile information.,account,5
+3389,My payment was declined.,billing,4
+4343,I would like to request a new feature for a mobile application.,feature_request,5
+475,The software freezes when I save a project.,technical,5
+2897,I do not recognize a charge on my account.,billing,5
+2919,The subscription price on my invoice is incorrect.,billing,5
+2731,The subscription price on my invoice is incorrect.,billing,3
+2729,How can I change my payment method?,billing,5
+309,The application is not working correctly when I save a project.,technical,5
+1699,I need help updating my profile information.,account,4
+3455,How can I change my payment method?,billing,5
+3640,I would like more information about your plans.,general,3
+2387,How do I change my account permissions?,account,4
+595,The system stops working whenever I generate a document.,technical,3
+3564,My payment was declined.,billing,5
+2434,How do I change my account permissions?,account,5
+383,I keep receiving an error while trying to save a project.,technical,4
+3691,Can you give me more information about the service?,general,4
+956,I keep receiving an error while trying to download a file.,technical,4
+236,Something is broken and I cannot open a document.,technical,5
+2084,I need to update the email address on my profile.,account,5
+1020,The software freezes when I download a file.,technical,5
+3607,I would like more information about your plans.,general,3
+2395,I cannot log into my account.,account,5
+1906,I forgot my password and cannot access my account.,account,5
+1717,My account is locked and I cannot sign in.,account,5
+4698,I think the platform would be better with custom notifications.,feature_request,4
+2724,My payment was declined.,billing,4
+2728,My payment was declined.,billing,5
+1926,I need to update the email address on my profile.,account,4
+132,The application crashes when I generate a document.,technical,4
+4227,Where can I find more information about this product?,general,5
+4302,Is it possible to add custom notifications?,feature_request,4
+685,There is a bug preventing me from download a file.,technical,5
+3559,I do not recognize a charge on my account.,billing,4
+3953,Where can I find the documentation?,general,4
+4539,I would like to request a new feature for custom notifications.,feature_request,5
+243,The application crashes when I download a file.,technical,5
+3870,I have a general question about the service.,general,3
+678,Something is broken and I cannot import data.,technical,3
+4463,Could you implement a mobile application?,feature_request,4
+99,Something is broken and I cannot download a file.,technical,5
+1793,I forgot my password and cannot access my account.,account,4
+1026,The system stops working whenever I upload a file.,technical,4
+575,The application crashes when I import data.,technical,4
+1079,There is a bug preventing me from open the dashboard.,technical,5
+4999,How can I cancel my account?,cancellation,5
+1575,How do I change my account permissions?,account,4
+994,The software freezes when I open a document.,technical,5
+3268,The subscription price on my invoice is incorrect.,billing,5
+2895,I do not recognize a charge on my account.,billing,5
+4537,I think the platform would be better with custom notifications.,feature_request,3
+4261,Can you explain how this works?,general,5
+1089,I am getting an error when I try to open the dashboard.,technical,5
+1279,There is a bug preventing me from generate a document.,technical,4
+4248,Can you give me more information about the service?,general,5
+1714,I forgot my password and cannot access my account.,account,5
+679,There is a bug preventing me from upload a file.,technical,4
+2688,I need to update the email address on my profile.,account,4
+4531,Could you add a mobile application to the application?,feature_request,4
+1622,I cannot access my account after changing my password.,account,5
+3749,Can you explain how this works?,general,3
+4783,I want to stop using the service.,cancellation,4
+1069,The software freezes when I open a document.,technical,3
+346,The system stops working whenever I open a document.,technical,5
+2891,I was charged twice for my subscription.,billing,5
+4203,Can you tell me more about the platform?,general,4
+4370,Please consider adding calendar integration in a future update.,feature_request,2
+2553,I need help updating my profile information.,account,5
+1614,I cannot access my account after changing my password.,account,5
+1737,How do I change my account permissions?,account,4
+1644,I need help updating my profile information.,account,5
+1998,I need to update the email address on my profile.,account,5
+4681,I would like the platform to support calendar integration.,feature_request,4
+4041,Can you tell me more about the platform?,general,3
+2980,I was charged the wrong amount.,billing,5
+2087,I need to update the email address on my profile.,account,4
+4322,I would like to request a new feature for advanced reporting.,feature_request,3
+1628,How can I change my password?,account,4
+2035,I need help updating my profile information.,account,5
+2164,How do I change my account permissions?,account,5
+4306,I would like the platform to support an improved search system.,feature_request,2
+138,There is a bug preventing me from save a project.,technical,3
+3844,Can you explain how this works?,general,3
+1165,Something is broken and I cannot upload a file.,technical,4
+1289,I keep receiving an error while trying to open a document.,technical,5
+3574,I need a copy of my invoice.,billing,5
+2369,My account is locked and I cannot sign in.,account,4
+516,The system stops working whenever I open a document.,technical,5
+1174,The application is not working correctly when I import data.,technical,5
+4506,I would like to request a new feature for dark mode.,feature_request,4
+4058,Where can I find more information about this product?,general,3
+3221,How can I change my payment method?,billing,5
+2600,I need help updating my profile information.,account,5
+2033,How can I change my password?,account,5
+1469,The application crashes when I export a report.,technical,5
+1861,I cannot access my account after changing my password.,account,5
+174,The application crashes when I import data.,technical,4
+2098,My account is locked and I cannot sign in.,account,5
+53,There is a bug preventing me from export a report.,technical,3
+250,I keep receiving an error while trying to open a document.,technical,5
+1090,I am getting an error when I try to download a file.,technical,5
+4431,Could you add additional export formats to the application?,feature_request,4
+1586,I cannot access my account after changing my password.,account,3
+796,The software freezes when I open a document.,technical,4
+1720,I cannot access my account after changing my password.,account,4
+2681,I need to update the email address on my profile.,account,4
+1615,I cannot log into my account.,account,5
+3488,Why was I charged for this month?,billing,5
+70,Something is broken and I cannot export a report.,technical,5
+4524,I would like the platform to support bulk file uploads.,feature_request,3
+3605,Where can I find more information about this product?,general,4
+1975,I cannot log into my account.,account,5
+767,Something is broken and I cannot download a file.,technical,5
+233,I am getting an error when I try to save a project.,technical,3
+2168,How do I change my account permissions?,account,4
+4004,Can you tell me more about the platform?,general,4
+254,The application is not working correctly when I import data.,technical,4
+4976,I want to close my account and cancel the service.,cancellation,4
+4866,Please help me cancel my subscription.,cancellation,5
+2716,I need a copy of my invoice.,billing,4
+1924,I need help updating my profile information.,account,4
+1584,I cannot log into my account.,account,4
+654,The application is not working correctly when I open the dashboard.,technical,5
+1438,The application crashes when I open the dashboard.,technical,5
+4509,I would like the platform to support custom notifications.,feature_request,4
+2149,How do I change my account permissions?,account,5
+3864,Can you give me more information about the service?,general,4
+1067,The software freezes when I import data.,technical,5
+3446,Why was I charged for this month?,billing,5
+2982,I was charged twice for my subscription.,billing,4
+351,Something is broken and I cannot open the dashboard.,technical,5
+2913,Why was I charged for this month?,billing,5
+1098,The system stops working whenever I save a project.,technical,5
+991,The application crashes when I upload a file.,technical,4
+4561,I think the platform would be better with custom notifications.,feature_request,2
+418,I am getting an error when I try to generate a document.,technical,5
+958,The application crashes when I generate a document.,technical,3
+850,I am getting an error when I try to open a document.,technical,3
+2983,My payment was declined.,billing,5
+2265,I forgot my password and cannot access my account.,account,3
+3931,Where can I find more information about this product?,general,4
+3555,Why was I charged for this month?,billing,4
+1006,Something is broken and I cannot save a project.,technical,3
+2097,I cannot log into my account.,account,5
+922,The application crashes when I download a file.,technical,5
+3395,Why was I charged for this month?,billing,4
+4271,How does the platform work?,general,2
+245,The application crashes when I generate a document.,technical,5
+977,I keep receiving an error while trying to save a project.,technical,5
+1863,My account is locked and I cannot sign in.,account,5
+2308,I forgot my password and cannot access my account.,account,4
+848,The system stops working whenever I upload a file.,technical,4
+3056,I was charged the wrong amount.,billing,4
+4098,I would like more information about your plans.,general,4
+4526,Could you implement dark mode?,feature_request,3
+3978,Where can I find the documentation?,general,5
+113,Something is broken and I cannot import data.,technical,4
+2754,I was charged the wrong amount.,billing,3
+1508,I forgot my password and cannot access my account.,account,5
+729,There is a bug preventing me from open a document.,technical,4
+4588,I think the platform would be better with a mobile application.,feature_request,3
+1172,I keep receiving an error while trying to open the dashboard.,technical,4
+1050,The software freezes when I save a project.,technical,5
+742,I keep receiving an error while trying to open a document.,technical,5
+2541,I cannot access my account after changing my password.,account,4
+1557,I need to update the email address on my profile.,account,4
+2063,How do I change my account permissions?,account,4
+1847,How can I change my password?,account,5
+3568,My payment was declined.,billing,4
+2490,I cannot access my account after changing my password.,account,4
+4042,Can you give me more information about the service?,general,4
+4477,Could you implement a mobile application?,feature_request,2
+1472,The software freezes when I export a report.,technical,3
+3868,How does the platform work?,general,5
+1219,I keep receiving an error while trying to open a document.,technical,5
+3632,I would like more information about your plans.,general,4
+4141,I have a general question about the service.,general,3
+1198,The application crashes when I upload a file.,technical,4
+766,I am getting an error when I try to open the dashboard.,technical,5
+3725,Where can I find the documentation?,general,5
+1875,My account is locked and I cannot sign in.,account,5
+1603,I forgot my password and cannot access my account.,account,5
+1588,I need help updating my profile information.,account,3
+437,I keep receiving an error while trying to save a project.,technical,5
+3603,How does the platform work?,general,5
+4612,I would like the platform to support additional export formats.,feature_request,3
+3337,My payment was declined.,billing,4
+3199,The subscription price on my invoice is incorrect.,billing,5
+3451,I was charged twice for my subscription.,billing,5
+2834,I was charged the wrong amount.,billing,4
+3355,The subscription price on my invoice is incorrect.,billing,4
+1476,I keep receiving an error while trying to upload a file.,technical,3
+4234,Can you give me more information about the service?,general,2
+2561,I cannot access my account after changing my password.,account,4
+4328,I would like the platform to support custom notifications.,feature_request,5
+373,There is a bug preventing me from save a project.,technical,5
+1422,I am getting an error when I try to open a document.,technical,3
+3299,The subscription price on my invoice is incorrect.,billing,5
+4829,Please help me cancel my subscription.,cancellation,3
+2764,I was charged the wrong amount.,billing,5
+3772,Can you tell me more about the platform?,general,3
+2926,I was charged twice for my subscription.,billing,4
+3116,I do not recognize a charge on my account.,billing,5
+1297,I am getting an error when I try to generate a document.,technical,4
+3343,Why was I charged for this month?,billing,5
+4801,I do not want to renew my subscription.,cancellation,4
+275,There is a bug preventing me from download a file.,technical,3
+4562,I would like to request a new feature for bulk file uploads.,feature_request,4
+202,There is a bug preventing me from open the dashboard.,technical,5
+908,The application is not working correctly when I generate a document.,technical,5
+48,The software freezes when I export a report.,technical,5
+4285,Where can I find the documentation?,general,5
+4745,I would like to request a new feature for additional export formats.,feature_request,5
+3813,How does the platform work?,general,4
+4794,How do I terminate my subscription?,cancellation,4
+4480,I think the platform would be better with custom notifications.,feature_request,4
+3747,Where can I find more information about this product?,general,4
+3273,Why was I charged for this month?,billing,5
+4737,Could you implement an improved search system?,feature_request,3
+2277,I cannot access my account after changing my password.,account,5
+3172,I was charged the wrong amount.,billing,5
+1791,I need to update the email address on my profile.,account,4
+2509,How do I change my account permissions?,account,5
+3965,Can you give me more information about the service?,general,5
+474,The application crashes when I import data.,technical,4
+2751,I was charged twice for my subscription.,billing,5
+4260,I have a general question about the service.,general,4
+337,The application is not working correctly when I export a report.,technical,5
+3438,I do not recognize a charge on my account.,billing,5
+758,Something is broken and I cannot export a report.,technical,4
+2338,I cannot log into my account.,account,4
+1281,The application crashes when I export a report.,technical,5
+4167,How does the platform work?,general,4
+200,There is a bug preventing me from open a document.,technical,4
+4405,I think the platform would be better with bulk file uploads.,feature_request,3
+4213,Where can I find more information about this product?,general,4
+1017,The application crashes when I save a project.,technical,5
+1571,I cannot access my account after changing my password.,account,5
+771,The application crashes when I download a file.,technical,5
+1933,How do I change my account permissions?,account,5
+1767,How do I change my account permissions?,account,5
+4288,Where can I find the documentation?,general,4
+2939,My payment was declined.,billing,4
+4627,It would be useful to have custom notifications.,feature_request,4
+1310,The software freezes when I save a project.,technical,5
+4875,I do not want to renew my subscription.,cancellation,5
+704,I keep receiving an error while trying to upload a file.,technical,5
+4443,I would like to request a new feature for additional export formats.,feature_request,2
+190,I keep receiving an error while trying to open the dashboard.,technical,5
+688,Something is broken and I cannot open the dashboard.,technical,3
+4739,Could you add an improved search system to the application?,feature_request,3
+1886,I need help updating my profile information.,account,5
+1991,My account is locked and I cannot sign in.,account,5
+4886,I want to close my account and cancel the service.,cancellation,4
+2473,How do I change my account permissions?,account,5
+1040,Something is broken and I cannot generate a document.,technical,5
+3002,I do not recognize a charge on my account.,billing,4
+3195,I do not recognize a charge on my account.,billing,4
+617,The application crashes when I import data.,technical,5
+392,The application crashes when I upload a file.,technical,4
+96,The application crashes when I open a document.,technical,5
+148,Something is broken and I cannot download a file.,technical,5
+1671,I cannot log into my account.,account,5
+4964,I would like to cancel my plan.,cancellation,3
+4873,I want to cancel my subscription.,cancellation,4
+2957,I do not recognize a charge on my account.,billing,4
+3527,I was charged the wrong amount.,billing,4
+1074,There is a bug preventing me from upload a file.,technical,5
+2227,How do I change my account permissions?,account,5
+967,The system stops working whenever I export a report.,technical,5
+4871,I would like to cancel my plan.,cancellation,4
+2679,How do I change my account permissions?,account,4
+4165,Can you tell me more about the platform?,general,4
+277,The system stops working whenever I open the dashboard.,technical,5
+2206,I forgot my password and cannot access my account.,account,4
+3011,I was charged twice for my subscription.,billing,5
+4812,How do I terminate my subscription?,cancellation,5
+2564,I cannot access my account after changing my password.,account,4
+1937,I cannot access my account after changing my password.,account,5
+157,I am getting an error when I try to download a file.,technical,4
+4351,Please consider adding an improved search system in a future update.,feature_request,4
+3594,The subscription price on my invoice is incorrect.,billing,4
+407,The system stops working whenever I open a document.,technical,5
+1742,How do I change my account permissions?,account,5
+3852,I would like more information about your plans.,general,3
+607,There is a bug preventing me from upload a file.,technical,5
+2497,I cannot log into my account.,account,4
+4915,How do I terminate my subscription?,cancellation,4
+3448,My payment was declined.,billing,5
+452,The software freezes when I download a file.,technical,5
+71,The application crashes when I save a project.,technical,4
+380,The system stops working whenever I download a file.,technical,3
+4884,Please help me cancel my subscription.,cancellation,2
+322,The application is not working correctly when I download a file.,technical,5
+2944,I do not recognize a charge on my account.,billing,4
+542,The software freezes when I generate a document.,technical,5
+4334,I would like to request a new feature for additional export formats.,feature_request,4
+26,Something is broken and I cannot download a file.,technical,5
+4843,Please help me cancel my subscription.,cancellation,3
+2312,I need to update the email address on my profile.,account,4
+1896,How do I change my account permissions?,account,4
+2343,I forgot my password and cannot access my account.,account,5
+1928,How can I change my password?,account,5
+3308,I need a copy of my invoice.,billing,5
+2262,I cannot access my account after changing my password.,account,4
+1341,Something is broken and I cannot download a file.,technical,3
+1448,I am getting an error when I try to open the dashboard.,technical,5
+4712,I would like the platform to support additional export formats.,feature_request,4
+4225,Can you give me more information about the service?,general,3
+647,The system stops working whenever I save a project.,technical,5
+2623,How can I change my password?,account,5
+2359,I need to update the email address on my profile.,account,4
+3945,Can you give me more information about the service?,general,5
+1437,The system stops working whenever I import data.,technical,4
+2382,I cannot access my account after changing my password.,account,3
+2337,I need help updating my profile information.,account,5
+4093,Can you explain how this works?,general,4
+3405,My payment was declined.,billing,3
+4287,I have a general question about the service.,general,5
+3026,The subscription price on my invoice is incorrect.,billing,5
+37,The software freezes when I save a project.,technical,5
+2459,I forgot my password and cannot access my account.,account,5
+4975,I want to stop using the service.,cancellation,3
+4732,Could you implement custom notifications?,feature_request,5
+3799,How does the platform work?,general,5
+3162,I was charged the wrong amount.,billing,3
+3596,The subscription price on my invoice is incorrect.,billing,4
+1143,Something is broken and I cannot generate a document.,technical,5
+1193,The system stops working whenever I save a project.,technical,5
+620,I am getting an error when I try to download a file.,technical,5
+270,The application is not working correctly when I upload a file.,technical,4
+839,The application is not working correctly when I import data.,technical,5
+365,I am getting an error when I try to import data.,technical,4
+1974,How can I change my password?,account,5
+2943,I was charged twice for my subscription.,billing,4
+2416,I cannot log into my account.,account,5
+1837,I need to update the email address on my profile.,account,4
+1112,There is a bug preventing me from save a project.,technical,4
+3317,The subscription price on my invoice is incorrect.,billing,3
+4755,How do I terminate my subscription?,cancellation,4
+3733,Where can I find more information about this product?,general,5
+491,I keep receiving an error while trying to download a file.,technical,5
+4471,Is it possible to add a mobile application?,feature_request,3
+2060,I forgot my password and cannot access my account.,account,3
+3474,I was charged the wrong amount.,billing,3
+2669,I need help updating my profile information.,account,5
+4766,I would like to cancel my plan.,cancellation,3
