@@ -1,0 +1,14 @@
+{
+    "model": "bert-base-uncased",
+    "method": "LoRA",
+    "accuracy": 1.0,
+    "f1_macro": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "training_time_seconds": 113.8114241000003,
+    "peak_gpu_memory_mb": 1741.60400390625,
+    "total_parameters": 112170252,
+    "trainable_parameters": 2683398,
+    "trainable_percentage": 2.3922545881416046,
+    "seed": 42
+}

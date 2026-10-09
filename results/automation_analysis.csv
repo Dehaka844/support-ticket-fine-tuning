@@ -1,0 +1,751 @@
+id,text,category,confidence,prediction,decision
+1703,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+3287,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+3710,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+810,I am getting an error when I try to upload a file.,technical,0.9956272840499878,technical,automatic
+932,The application is not working correctly when I upload a file.,technical,0.9957114458084106,technical,automatic
+1444,I am getting an error when I try to download a file.,technical,0.9956218600273132,technical,automatic
+3702,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+294,There is a bug preventing me from open the dashboard.,technical,0.9954804182052612,technical,automatic
+3361,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+4842,How can I cancel my account?,cancellation,0.9871755242347717,cancellation,automatic
+4056,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+2703,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+177,The system stops working whenever I export a report.,technical,0.995642900466919,technical,automatic
+4446,I would like the platform to support additional export formats.,feature_request,0.9944109320640564,feature_request,automatic
+2400,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+2867,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+378,The application is not working correctly when I generate a document.,technical,0.9956757426261902,technical,automatic
+2283,How can I change my password?,account,0.994441568851471,account,automatic
+1982,I cannot log into my account.,account,0.9945493340492249,account,automatic
+4754,How do I terminate my subscription?,cancellation,0.9877762794494629,cancellation,automatic
+4072,How does the platform work?,general,0.9940698146820068,general,automatic
+2307,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+1259,I am getting an error when I try to generate a document.,technical,0.9956279993057251,technical,automatic
+1679,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+1152,The application crashes when I export a report.,technical,0.9956830739974976,technical,automatic
+955,Something is broken and I cannot import data.,technical,0.995598316192627,technical,automatic
+572,I keep receiving an error while trying to save a project.,technical,0.99558025598526,technical,automatic
+1536,How can I change my password?,account,0.994441568851471,account,automatic
+4362,Could you add a mobile application to the application?,feature_request,0.9944252967834473,feature_request,automatic
+2996,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+4809,I would like to cancel my plan.,cancellation,0.9871312975883484,cancellation,automatic
+2266,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+3838,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+3990,Can you explain how this works?,general,0.9942911863327026,general,automatic
+3513,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+1273,I am getting an error when I try to generate a document.,technical,0.9956279993057251,technical,automatic
+203,Something is broken and I cannot open the dashboard.,technical,0.9951133131980896,technical,automatic
+2264,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+2426,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+1883,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+425,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+4425,I would like to request a new feature for advanced reporting.,feature_request,0.9943490624427795,feature_request,automatic
+2853,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+3271,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+1576,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+2125,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+416,Something is broken and I cannot open the dashboard.,technical,0.9951133131980896,technical,automatic
+3557,My payment was declined.,billing,0.9941878318786621,billing,automatic
+3144,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+483,The system stops working whenever I open the dashboard.,technical,0.9956005811691284,technical,automatic
+1718,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+1732,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+1705,How can I change my password?,account,0.994441568851471,account,automatic
+4142,I have a general question about the service.,general,0.9942752718925476,general,automatic
+962,The application crashes when I export a report.,technical,0.9956830739974976,technical,automatic
+2252,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+4950,I want to close my account and cancel the service.,cancellation,0.9876391291618347,cancellation,automatic
+3372,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+1466,The application is not working correctly when I import data.,technical,0.9956995248794556,technical,automatic
+2559,How can I change my password?,account,0.994441568851471,account,automatic
+4826,I do not want to renew my subscription.,cancellation,0.9872003793716431,cancellation,automatic
+3338,My payment was declined.,billing,0.9941878318786621,billing,automatic
+2073,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+2817,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+4633,I would like the platform to support calendar integration.,feature_request,0.994510293006897,feature_request,automatic
+1246,I am getting an error when I try to generate a document.,technical,0.9956279993057251,technical,automatic
+230,The application crashes when I open a document.,technical,0.9956279993057251,technical,automatic
+2725,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+899,The system stops working whenever I upload a file.,technical,0.9955757856369019,technical,automatic
+3484,My payment was declined.,billing,0.9941878318786621,billing,automatic
+2694,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+3542,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+3765,I have a general question about the service.,general,0.9942752718925476,general,automatic
+3124,My payment was declined.,billing,0.9941878318786621,billing,automatic
+2765,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+2007,How can I change my password?,account,0.994441568851471,account,automatic
+4011,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+3237,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+1648,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+533,The application is not working correctly when I open a document.,technical,0.995646059513092,technical,automatic
+2079,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+375,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+1486,The system stops working whenever I open the dashboard.,technical,0.9956005811691284,technical,automatic
+3363,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+3921,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+4878,I do not want to renew my subscription.,cancellation,0.9872003793716431,cancellation,automatic
+4465,I think the platform would be better with additional export formats.,feature_request,0.9944288730621338,feature_request,automatic
+1301,Something is broken and I cannot open the dashboard.,technical,0.9951133131980896,technical,automatic
+2785,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+1275,I am getting an error when I try to open a document.,technical,0.9956015348434448,technical,automatic
+3500,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+1477,The system stops working whenever I open a document.,technical,0.9956089854240417,technical,automatic
+3111,My payment was declined.,billing,0.9941878318786621,billing,automatic
+3150,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+1480,The application crashes when I download a file.,technical,0.9956414699554443,technical,automatic
+2558,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+1182,The system stops working whenever I open the dashboard.,technical,0.9956005811691284,technical,automatic
+2507,I cannot log into my account.,account,0.9945493340492249,account,automatic
+2293,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+768,The software freezes when I upload a file.,technical,0.9956327080726624,technical,automatic
+487,The application crashes when I import data.,technical,0.9956941604614258,technical,automatic
+3027,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+4602,Could you add a mobile application to the application?,feature_request,0.9944252967834473,feature_request,automatic
+247,Something is broken and I cannot generate a document.,technical,0.99558025598526,technical,automatic
+199,The application is not working correctly when I upload a file.,technical,0.9957114458084106,technical,automatic
+2714,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+4994,I want to close my account and cancel the service.,cancellation,0.9876391291618347,cancellation,automatic
+1559,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+1940,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+4669,I would like to request a new feature for a mobile application.,feature_request,0.9942904710769653,feature_request,automatic
+2562,I cannot log into my account.,account,0.9945493340492249,account,automatic
+4120,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+2179,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+4850,I want to cancel my subscription.,cancellation,0.9875505566596985,cancellation,automatic
+225,The application is not working correctly when I open a document.,technical,0.995646059513092,technical,automatic
+618,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+2428,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+31,The application crashes when I open a document.,technical,0.9956279993057251,technical,automatic
+952,The software freezes when I save a project.,technical,0.9956488013267517,technical,automatic
+4549,Please consider adding dark mode in a future update.,feature_request,0.9942706823348999,feature_request,automatic
+4717,Could you implement a mobile application?,feature_request,0.9944092631340027,feature_request,automatic
+2452,How can I change my password?,account,0.994441568851471,account,automatic
+4404,Could you implement calendar integration?,feature_request,0.994529664516449,feature_request,automatic
+3920,Can you explain how this works?,general,0.9942911863327026,general,automatic
+76,The application crashes when I import data.,technical,0.9956941604614258,technical,automatic
+2285,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+2475,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+4991,I want to close my account and cancel the service.,cancellation,0.9876391291618347,cancellation,automatic
+4913,I want to close my account and cancel the service.,cancellation,0.9876391291618347,cancellation,automatic
+4183,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+3932,I have a general question about the service.,general,0.9942752718925476,general,automatic
+1141,I am getting an error when I try to import data.,technical,0.9956130981445312,technical,automatic
+1127,The application is not working correctly when I save a project.,technical,0.9957231283187866,technical,automatic
+1963,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+4830,How do I terminate my subscription?,cancellation,0.9877762794494629,cancellation,automatic
+4521,Is it possible to add a mobile application?,feature_request,0.9942889213562012,feature_request,automatic
+1029,I am getting an error when I try to open a document.,technical,0.9956015348434448,technical,automatic
+1347,The application is not working correctly when I export a report.,technical,0.9957213401794434,technical,automatic
+2445,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+2194,I cannot log into my account.,account,0.9945493340492249,account,automatic
+2062,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+1218,The application is not working correctly when I open the dashboard.,technical,0.9956911206245422,technical,automatic
+4550,It would be useful to have an improved search system.,feature_request,0.994517982006073,feature_request,automatic
+2968,My payment was declined.,billing,0.9941878318786621,billing,automatic
+4390,I would like the platform to support dark mode.,feature_request,0.994460940361023,feature_request,automatic
+4564,It would be useful to have a mobile application.,feature_request,0.9944711923599243,feature_request,automatic
+2065,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+2003,I cannot log into my account.,account,0.9945493340492249,account,automatic
+4275,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+3803,How does the platform work?,general,0.9940698146820068,general,automatic
+743,I keep receiving an error while trying to download a file.,technical,0.9955896139144897,technical,automatic
+108,The system stops working whenever I download a file.,technical,0.9955915808677673,technical,automatic
+2928,My payment was declined.,billing,0.9941878318786621,billing,automatic
+331,The software freezes when I save a project.,technical,0.9956488013267517,technical,automatic
+4032,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+960,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+1591,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+1853,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+2791,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+2837,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+4220,Can you explain how this works?,general,0.9942911863327026,general,automatic
+2339,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+1606,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+1381,The application is not working correctly when I download a file.,technical,0.9957120418548584,technical,automatic
+3680,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+3076,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+3301,My payment was declined.,billing,0.9941878318786621,billing,automatic
+859,The application crashes when I save a project.,technical,0.9956438541412354,technical,automatic
+1217,I keep receiving an error while trying to upload a file.,technical,0.9955990314483643,technical,automatic
+3962,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+3204,My payment was declined.,billing,0.9941878318786621,billing,automatic
+2569,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+2292,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+2611,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+1654,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+3667,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+604,Something is broken and I cannot open the dashboard.,technical,0.9951133131980896,technical,automatic
+196,The software freezes when I import data.,technical,0.9956074357032776,technical,automatic
+1921,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+995,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+705,Something is broken and I cannot open the dashboard.,technical,0.9951133131980896,technical,automatic
+4434,I think the platform would be better with dark mode.,feature_request,0.9942858815193176,feature_request,automatic
+1792,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+2139,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+29,The software freezes when I download a file.,technical,0.9956322312355042,technical,automatic
+1683,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+4309,Could you add custom notifications to the application?,feature_request,0.9944444298744202,feature_request,automatic
+4191,How does the platform work?,general,0.9940698146820068,general,automatic
+206,I keep receiving an error while trying to open the dashboard.,technical,0.9955775737762451,technical,automatic
+2198,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+3735,I have a general question about the service.,general,0.9942752718925476,general,automatic
+2378,I cannot log into my account.,account,0.9945493340492249,account,automatic
+4895,I would like to cancel my plan.,cancellation,0.9871312975883484,cancellation,automatic
+1245,I am getting an error when I try to import data.,technical,0.9956130981445312,technical,automatic
+237,The application is not working correctly when I export a report.,technical,0.9957213401794434,technical,automatic
+571,The system stops working whenever I save a project.,technical,0.9956034421920776,technical,automatic
+1949,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+3604,I have a general question about the service.,general,0.9942752718925476,general,automatic
+1005,I am getting an error when I try to upload a file.,technical,0.9956272840499878,technical,automatic
+261,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+2675,How can I change my password?,account,0.994441568851471,account,automatic
+253,The application crashes when I open the dashboard.,technical,0.9955975413322449,technical,automatic
+1179,There is a bug preventing me from import data.,technical,0.9955874681472778,technical,automatic
+3479,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+421,I am getting an error when I try to download a file.,technical,0.9956218600273132,technical,automatic
+1129,Something is broken and I cannot import data.,technical,0.995598316192627,technical,automatic
+220,Something is broken and I cannot import data.,technical,0.995598316192627,technical,automatic
+3525,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+1255,I keep receiving an error while trying to export a report.,technical,0.9956092238426208,technical,automatic
+2412,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+750,I keep receiving an error while trying to generate a document.,technical,0.9955278038978577,technical,automatic
+1178,The software freezes when I export a report.,technical,0.9956738352775574,technical,automatic
+107,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+3456,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+4836,Please help me cancel my subscription.,cancellation,0.9875665903091431,cancellation,automatic
+480,I am getting an error when I try to import data.,technical,0.9956130981445312,technical,automatic
+622,There is a bug preventing me from upload a file.,technical,0.9955892562866211,technical,automatic
+1482,Something is broken and I cannot open the dashboard.,technical,0.9951133131980896,technical,automatic
+4872,How can I cancel my account?,cancellation,0.9871755242347717,cancellation,automatic
+1124,I am getting an error when I try to open the dashboard.,technical,0.9954860806465149,technical,automatic
+389,I am getting an error when I try to import data.,technical,0.9956130981445312,technical,automatic
+3916,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+2988,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+1114,The application crashes when I download a file.,technical,0.9956414699554443,technical,automatic
+4074,Can you explain how this works?,general,0.9942911863327026,general,automatic
+4249,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+769,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+3839,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+1909,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+3434,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+57,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+4943,How can I cancel my account?,cancellation,0.9871755242347717,cancellation,automatic
+3821,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+2537,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+1035,I keep receiving an error while trying to download a file.,technical,0.9955896139144897,technical,automatic
+3275,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+946,The software freezes when I download a file.,technical,0.9956322312355042,technical,automatic
+1672,How can I change my password?,account,0.994441568851471,account,automatic
+1363,The application crashes when I open the dashboard.,technical,0.9955975413322449,technical,automatic
+3153,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+4724,Could you add advanced reporting to the application?,feature_request,0.9944127202033997,feature_request,automatic
+172,The software freezes when I generate a document.,technical,0.9955572485923767,technical,automatic
+4086,Can you explain how this works?,general,0.9942911863327026,general,automatic
+2758,My payment was declined.,billing,0.9941878318786621,billing,automatic
+1754,I cannot log into my account.,account,0.9945493340492249,account,automatic
+455,I am getting an error when I try to open a document.,technical,0.9956015348434448,technical,automatic
+1596,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+4838,Please help me cancel my subscription.,cancellation,0.9875665903091431,cancellation,automatic
+4408,Could you implement an improved search system?,feature_request,0.9945132732391357,feature_request,automatic
+3653,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+1613,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+915,The application is not working correctly when I open a document.,technical,0.995646059513092,technical,automatic
+1326,The application crashes when I open a document.,technical,0.9956279993057251,technical,automatic
+4715,I would like to request a new feature for advanced reporting.,feature_request,0.9943490624427795,feature_request,automatic
+3717,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+4767,I want to close my account and cancel the service.,cancellation,0.9876391291618347,cancellation,automatic
+3179,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+4256,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+3533,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+2050,How can I change my password?,account,0.994441568851471,account,automatic
+3993,I have a general question about the service.,general,0.9942752718925476,general,automatic
+2417,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+1817,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+3440,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+2131,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+611,The application is not working correctly when I upload a file.,technical,0.9957114458084106,technical,automatic
+3955,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+3832,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+3028,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+1592,How can I change my password?,account,0.994441568851471,account,automatic
+3536,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+4704,Could you implement a mobile application?,feature_request,0.9944092631340027,feature_request,automatic
+4133,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+2219,I cannot log into my account.,account,0.9945493340492249,account,automatic
+4427,Could you add additional export formats to the application?,feature_request,0.9944446682929993,feature_request,automatic
+2505,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+3681,How does the platform work?,general,0.9940698146820068,general,automatic
+173,Something is broken and I cannot upload a file.,technical,0.9955618381500244,technical,automatic
+448,Something is broken and I cannot export a report.,technical,0.9956831932067871,technical,automatic
+2999,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+1084,There is a bug preventing me from import data.,technical,0.9955874681472778,technical,automatic
+2235,I cannot log into my account.,account,0.9945493340492249,account,automatic
+2755,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+4217,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+4846,I do not want to renew my subscription.,cancellation,0.9872003793716431,cancellation,automatic
+2815,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+358,I am getting an error when I try to save a project.,technical,0.9956230521202087,technical,automatic
+1209,Something is broken and I cannot export a report.,technical,0.9956831932067871,technical,automatic
+2792,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+3202,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+4584,I think the platform would be better with bulk file uploads.,feature_request,0.994023859500885,feature_request,automatic
+1227,There is a bug preventing me from upload a file.,technical,0.9955892562866211,technical,automatic
+1810,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+3397,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+3650,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+3979,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+3766,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+1490,I am getting an error when I try to download a file.,technical,0.9956218600273132,technical,automatic
+219,The application crashes when I generate a document.,technical,0.9956539869308472,technical,automatic
+430,I keep receiving an error while trying to upload a file.,technical,0.9955990314483643,technical,automatic
+1498,The software freezes when I open the dashboard.,technical,0.995598554611206,technical,automatic
+4517,Could you add dark mode to the application?,feature_request,0.9943538904190063,feature_request,automatic
+1992,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+2075,How can I change my password?,account,0.994441568851471,account,automatic
+1729,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+4345,It would be useful to have custom notifications.,feature_request,0.9945858716964722,feature_request,automatic
+3296,My payment was declined.,billing,0.9941878318786621,billing,automatic
+525,The software freezes when I open the dashboard.,technical,0.995598554611206,technical,automatic
+642,The software freezes when I generate a document.,technical,0.9955572485923767,technical,automatic
+2673,How can I change my password?,account,0.994441568851471,account,automatic
+2592,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+625,The application crashes when I generate a document.,technical,0.9956539869308472,technical,automatic
+1972,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+21,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+656,There is a bug preventing me from open the dashboard.,technical,0.9954804182052612,technical,automatic
+1119,The application is not working correctly when I open the dashboard.,technical,0.9956911206245422,technical,automatic
+4885,How can I cancel my account?,cancellation,0.9871755242347717,cancellation,automatic
+4557,It would be useful to have dark mode.,feature_request,0.9943307638168335,feature_request,automatic
+821,I keep receiving an error while trying to download a file.,technical,0.9955896139144897,technical,automatic
+4481,I think the platform would be better with custom notifications.,feature_request,0.9943875670433044,feature_request,automatic
+4594,It would be useful to have additional export formats.,feature_request,0.9944992065429688,feature_request,automatic
+537,I keep receiving an error while trying to upload a file.,technical,0.9955990314483643,technical,automatic
+2392,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+2695,I cannot log into my account.,account,0.9945493340492249,account,automatic
+3668,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+1342,The application is not working correctly when I export a report.,technical,0.9957213401794434,technical,automatic
+4904,I would like to cancel my plan.,cancellation,0.9871312975883484,cancellation,automatic
+2556,I cannot log into my account.,account,0.9945493340492249,account,automatic
+3519,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+134,Something is broken and I cannot export a report.,technical,0.9956831932067871,technical,automatic
+260,Something is broken and I cannot open a document.,technical,0.9954280853271484,technical,automatic
+3471,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+3063,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+2835,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+3468,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+1504,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+1468,The application is not working correctly when I export a report.,technical,0.9957213401794434,technical,automatic
+2533,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+459,The application crashes when I download a file.,technical,0.9956414699554443,technical,automatic
+1224,The application is not working correctly when I export a report.,technical,0.9957213401794434,technical,automatic
+4239,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+2171,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+4629,Please consider adding custom notifications in a future update.,feature_request,0.9942481517791748,feature_request,automatic
+878,The software freezes when I download a file.,technical,0.9956322312355042,technical,automatic
+3678,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+3457,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+2027,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+4230,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+3313,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+2121,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+2396,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+1733,I cannot log into my account.,account,0.9945493340492249,account,automatic
+2691,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+3376,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+1032,The software freezes when I open a document.,technical,0.9955911636352539,technical,automatic
+1620,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+2847,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+1958,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+3192,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+4607,Is it possible to add custom notifications?,feature_request,0.9944849610328674,feature_request,automatic
+43,I keep receiving an error while trying to generate a document.,technical,0.9955278038978577,technical,automatic
+2223,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+2634,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+2770,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+330,The system stops working whenever I download a file.,technical,0.9955915808677673,technical,automatic
+898,I keep receiving an error while trying to download a file.,technical,0.9955896139144897,technical,automatic
+3912,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+4615,Please consider adding calendar integration in a future update.,feature_request,0.9942960143089294,feature_request,automatic
+1036,Something is broken and I cannot open the dashboard.,technical,0.9951133131980896,technical,automatic
+4081,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+4373,It would be useful to have custom notifications.,feature_request,0.9945858716964722,feature_request,automatic
+427,Something is broken and I cannot open the dashboard.,technical,0.9951133131980896,technical,automatic
+4723,I would like the platform to support calendar integration.,feature_request,0.994510293006897,feature_request,automatic
+3902,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+520,The system stops working whenever I import data.,technical,0.9956479668617249,technical,automatic
+169,The application is not working correctly when I download a file.,technical,0.9957120418548584,technical,automatic
+2082,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+2563,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+2773,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+4492,Is it possible to add custom notifications?,feature_request,0.9944849610328674,feature_request,automatic
+3753,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+3833,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+3019,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+1395,The system stops working whenever I export a report.,technical,0.995642900466919,technical,automatic
+3401,My payment was declined.,billing,0.9941878318786621,billing,automatic
+4453,Could you implement custom notifications?,feature_request,0.9946329593658447,feature_request,automatic
+1721,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+3178,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+2030,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+2112,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+2072,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+2358,I cannot log into my account.,account,0.9945493340492249,account,automatic
+3371,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+2240,How can I change my password?,account,0.994441568851471,account,automatic
+2741,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+4955,How do I terminate my subscription?,cancellation,0.9877762794494629,cancellation,automatic
+2759,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+1943,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+3777,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+2103,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+2213,How can I change my password?,account,0.994441568851471,account,automatic
+825,The application is not working correctly when I generate a document.,technical,0.9956757426261902,technical,automatic
+1770,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+3252,My payment was declined.,billing,0.9941878318786621,billing,automatic
+1044,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+244,The application is not working correctly when I upload a file.,technical,0.9957114458084106,technical,automatic
+384,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+3879,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+2884,My payment was declined.,billing,0.9941878318786621,billing,automatic
+24,I keep receiving an error while trying to download a file.,technical,0.9955896139144897,technical,automatic
+2323,How can I change my password?,account,0.994441568851471,account,automatic
+1216,The system stops working whenever I upload a file.,technical,0.9955757856369019,technical,automatic
+3444,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+2528,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+1895,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+281,The software freezes when I save a project.,technical,0.9956488013267517,technical,automatic
+2872,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+2890,My payment was declined.,billing,0.9941878318786621,billing,automatic
+3514,My payment was declined.,billing,0.9941878318786621,billing,automatic
+1931,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+1862,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+153,I am getting an error when I try to generate a document.,technical,0.9956279993057251,technical,automatic
+4053,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+3439,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+1451,The application crashes when I save a project.,technical,0.9956438541412354,technical,automatic
+2538,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+824,The system stops working whenever I import data.,technical,0.9956479668617249,technical,automatic
+643,There is a bug preventing me from open a document.,technical,0.9955765008926392,technical,automatic
+3944,Can you explain how this works?,general,0.9942911863327026,general,automatic
+2273,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+4017,I have a general question about the service.,general,0.9942752718925476,general,automatic
+3520,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+3349,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+2408,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+4030,I have a general question about the service.,general,0.9942752718925476,general,automatic
+3348,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+2373,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+1865,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+1419,The system stops working whenever I upload a file.,technical,0.9955757856369019,technical,automatic
+4598,Could you add an improved search system to the application?,feature_request,0.994397759437561,feature_request,automatic
+1560,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+1545,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+562,I keep receiving an error while trying to upload a file.,technical,0.9955990314483643,technical,automatic
+3727,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+1741,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+556,The software freezes when I open the dashboard.,technical,0.995598554611206,technical,automatic
+4694,Please consider adding a mobile application in a future update.,feature_request,0.9942811727523804,feature_request,automatic
+2963,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+560,I am getting an error when I try to download a file.,technical,0.9956218600273132,technical,automatic
+1177,There is a bug preventing me from export a report.,technical,0.9956632256507874,technical,automatic
+4896,I would like to cancel my plan.,cancellation,0.9871312975883484,cancellation,automatic
+3393,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+1805,I cannot log into my account.,account,0.9945493340492249,account,automatic
+9,The system stops working whenever I export a report.,technical,0.995642900466919,technical,automatic
+4618,Could you add additional export formats to the application?,feature_request,0.9944446682929993,feature_request,automatic
+4063,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+3294,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+3118,My payment was declined.,billing,0.9941878318786621,billing,automatic
+992,The software freezes when I save a project.,technical,0.9956488013267517,technical,automatic
+1798,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+3327,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+22,The application is not working correctly when I export a report.,technical,0.9957213401794434,technical,automatic
+4155,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+3001,My payment was declined.,billing,0.9941878318786621,billing,automatic
+434,The system stops working whenever I import data.,technical,0.9956479668617249,technical,automatic
+4982,I want to close my account and cancel the service.,cancellation,0.9876391291618347,cancellation,automatic
+1686,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+2840,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+2786,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+4643,Is it possible to add an improved search system?,feature_request,0.9944037199020386,feature_request,automatic
+3505,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+4832,Please help me cancel my subscription.,cancellation,0.9875665903091431,cancellation,automatic
+1541,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+887,The system stops working whenever I upload a file.,technical,0.9955757856369019,technical,automatic
+62,I am getting an error when I try to upload a file.,technical,0.9956272840499878,technical,automatic
+660,I am getting an error when I try to open a document.,technical,0.9956015348434448,technical,automatic
+4350,I would like the platform to support a mobile application.,feature_request,0.9943753480911255,feature_request,automatic
+2885,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+911,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+2495,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+4356,I would like to request a new feature for custom notifications.,feature_request,0.9943656921386719,feature_request,automatic
+3369,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+2272,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+359,I keep receiving an error while trying to download a file.,technical,0.9955896139144897,technical,automatic
+1946,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+4757,I want to stop using the service.,cancellation,0.9870911836624146,cancellation,automatic
+1295,Something is broken and I cannot upload a file.,technical,0.9955618381500244,technical,automatic
+2871,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+2061,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+3761,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+3665,I have a general question about the service.,general,0.9942752718925476,general,automatic
+1212,I am getting an error when I try to save a project.,technical,0.9956230521202087,technical,automatic
+4262,Can you explain how this works?,general,0.9942911863327026,general,automatic
+67,I am getting an error when I try to upload a file.,technical,0.9956272840499878,technical,automatic
+4553,Is it possible to add dark mode?,feature_request,0.9944197535514832,feature_request,automatic
+4729,I would like to request a new feature for an improved search system.,feature_request,0.9943881630897522,feature_request,automatic
+2899,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+1948,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+3567,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+4778,How do I terminate my subscription?,cancellation,0.9877762794494629,cancellation,automatic
+3050,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+4310,Is it possible to add bulk file uploads?,feature_request,0.9943623542785645,feature_request,automatic
+4132,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+1646,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+1501,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+2331,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+4806,Please help me cancel my subscription.,cancellation,0.9875665903091431,cancellation,automatic
+1376,I am getting an error when I try to open a document.,technical,0.9956015348434448,technical,automatic
+4929,How can I cancel my account?,cancellation,0.9871755242347717,cancellation,automatic
+3649,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+4906,I want to cancel my subscription.,cancellation,0.9875505566596985,cancellation,automatic
+4179,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+2868,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+1350,The system stops working whenever I open a document.,technical,0.9956089854240417,technical,automatic
+4075,How does the platform work?,general,0.9940698146820068,general,automatic
+4024,Can you explain how this works?,general,0.9942911863327026,general,automatic
+4437,Please consider adding calendar integration in a future update.,feature_request,0.9942960143089294,feature_request,automatic
+3059,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+996,The application crashes when I generate a document.,technical,0.9956539869308472,technical,automatic
+584,Something is broken and I cannot upload a file.,technical,0.9955618381500244,technical,automatic
+3442,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+4344,I would like to request a new feature for additional export formats.,feature_request,0.9943814873695374,feature_request,automatic
+1456,Something is broken and I cannot import data.,technical,0.995598316192627,technical,automatic
+3044,My payment was declined.,billing,0.9941878318786621,billing,automatic
+1585,How can I change my password?,account,0.994441568851471,account,automatic
+69,There is a bug preventing me from save a project.,technical,0.9956367611885071,technical,automatic
+403,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+4611,I would like the platform to support bulk file uploads.,feature_request,0.9942697286605835,feature_request,automatic
+4294,Can you explain how this works?,general,0.9942911863327026,general,automatic
+4623,I would like to request a new feature for custom notifications.,feature_request,0.9943656921386719,feature_request,automatic
+195,There is a bug preventing me from open the dashboard.,technical,0.9954804182052612,technical,automatic
+732,I keep receiving an error while trying to download a file.,technical,0.9955896139144897,technical,automatic
+3970,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+1180,The software freezes when I upload a file.,technical,0.9956327080726624,technical,automatic
+2574,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+82,There is a bug preventing me from import data.,technical,0.9955874681472778,technical,automatic
+2597,I cannot log into my account.,account,0.9945493340492249,account,automatic
+93,I am getting an error when I try to save a project.,technical,0.9956230521202087,technical,automatic
+4476,Is it possible to add bulk file uploads?,feature_request,0.9943623542785645,feature_request,automatic
+33,The software freezes when I download a file.,technical,0.9956322312355042,technical,automatic
+1144,Something is broken and I cannot download a file.,technical,0.9955253005027771,technical,automatic
+1291,The system stops working whenever I download a file.,technical,0.9955915808677673,technical,automatic
+3190,My payment was declined.,billing,0.9941878318786621,billing,automatic
+2740,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+3549,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+1086,I keep receiving an error while trying to import data.,technical,0.9955884218215942,technical,automatic
+2123,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+1973,I cannot log into my account.,account,0.9945493340492249,account,automatic
+2114,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+1168,The application is not working correctly when I export a report.,technical,0.9957213401794434,technical,automatic
+2455,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+4289,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+4705,Could you implement a mobile application?,feature_request,0.9944092631340027,feature_request,automatic
+2217,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+2051,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+3281,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+2289,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+4507,Is it possible to add bulk file uploads?,feature_request,0.9943623542785645,feature_request,automatic
+228,Something is broken and I cannot generate a document.,technical,0.99558025598526,technical,automatic
+1657,I cannot log into my account.,account,0.9945493340492249,account,automatic
+621,The system stops working whenever I save a project.,technical,0.9956034421920776,technical,automatic
+668,The system stops working whenever I download a file.,technical,0.9955915808677673,technical,automatic
+52,I am getting an error when I try to import data.,technical,0.9956130981445312,technical,automatic
+2830,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+32,The system stops working whenever I download a file.,technical,0.9955915808677673,technical,automatic
+1355,The application is not working correctly when I export a report.,technical,0.9957213401794434,technical,automatic
+693,I keep receiving an error while trying to export a report.,technical,0.9956092238426208,technical,automatic
+587,The system stops working whenever I open the dashboard.,technical,0.9956005811691284,technical,automatic
+3534,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+4678,Could you add additional export formats to the application?,feature_request,0.9944446682929993,feature_request,automatic
+3713,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+3610,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+1230,The application is not working correctly when I upload a file.,technical,0.9957114458084106,technical,automatic
+512,The system stops working whenever I open the dashboard.,technical,0.9956005811691284,technical,automatic
+4786,I do not want to renew my subscription.,cancellation,0.9872003793716431,cancellation,automatic
+1056,I am getting an error when I try to upload a file.,technical,0.9956272840499878,technical,automatic
+4202,How does the platform work?,general,0.9940698146820068,general,automatic
+3161,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+3518,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+1809,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+2494,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+3715,Can you explain how this works?,general,0.9942911863327026,general,automatic
+3991,How does the platform work?,general,0.9940698146820068,general,automatic
+3481,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+1349,I keep receiving an error while trying to export a report.,technical,0.9956092238426208,technical,automatic
+1282,The system stops working whenever I save a project.,technical,0.9956034421920776,technical,automatic
+4728,Could you add an improved search system to the application?,feature_request,0.994397759437561,feature_request,automatic
+3331,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+3843,Can you explain how this works?,general,0.9942911863327026,general,automatic
+4108,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+39,I am getting an error when I try to generate a document.,technical,0.9956279993057251,technical,automatic
+563,There is a bug preventing me from import data.,technical,0.9955874681472778,technical,automatic
+2374,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+3800,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+350,The software freezes when I open a document.,technical,0.9955911636352539,technical,automatic
+388,The software freezes when I generate a document.,technical,0.9955572485923767,technical,automatic
+4070,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+2327,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+3210,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+3746,Can you explain how this works?,general,0.9942911863327026,general,automatic
+2031,I cannot log into my account.,account,0.9945493340492249,account,automatic
+4543,Could you implement a mobile application?,feature_request,0.9944092631340027,feature_request,automatic
+3175,How can I change my payment method?,billing,0.9939060807228088,billing,automatic
+4654,Please consider adding calendar integration in a future update.,feature_request,0.9942960143089294,feature_request,automatic
+4593,I think the platform would be better with dark mode.,feature_request,0.9942858815193176,feature_request,automatic
+303,I keep receiving an error while trying to generate a document.,technical,0.9955278038978577,technical,automatic
+161,I keep receiving an error while trying to generate a document.,technical,0.9955278038978577,technical,automatic
+3245,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+1041,The application crashes when I import data.,technical,0.9956941604614258,technical,automatic
+841,The application crashes when I upload a file.,technical,0.9956423044204712,technical,automatic
+1905,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+3362,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+3906,Can you explain how this works?,general,0.9942911863327026,general,automatic
+3585,My payment was declined.,billing,0.9941878318786621,billing,automatic
+2543,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+4934,I would like to cancel my plan.,cancellation,0.9871311783790588,cancellation,automatic
+601,The software freezes when I import data.,technical,0.9956074357032776,technical,automatic
+1877,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+2135,I need help updating my profile information.,account,0.9944894313812256,account,automatic
+4235,I have a general question about the service.,general,0.9942752718925476,general,automatic
+4131,I have a general question about the service.,general,0.9942752718925476,general,automatic
+2322,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+1136,The application is not working correctly when I import data.,technical,0.9956995248794556,technical,automatic
+4385,I would like to request a new feature for bulk file uploads.,feature_request,0.9940443634986877,feature_request,automatic
+4770,How do I terminate my subscription?,cancellation,0.9877762794494629,cancellation,automatic
+149,Something is broken and I cannot save a project.,technical,0.9955671429634094,technical,automatic
+2,There is a bug preventing me from export a report.,technical,0.9956632256507874,technical,automatic
+224,The application crashes when I save a project.,technical,0.9956437349319458,technical,automatic
+3831,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+1828,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+419,The application crashes when I upload a file.,technical,0.9956423044204712,technical,automatic
+3537,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+2120,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+4441,Could you add advanced reporting to the application?,feature_request,0.9944127202033997,feature_request,automatic
+4205,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+1171,I keep receiving an error while trying to open the dashboard.,technical,0.9955775737762451,technical,automatic
+968,Something is broken and I cannot generate a document.,technical,0.99558025598526,technical,automatic
+1786,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+1153,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+2052,How can I change my password?,account,0.994441568851471,account,automatic
+223,The software freezes when I open the dashboard.,technical,0.995598554611206,technical,automatic
+2463,I cannot log into my account.,account,0.9945493340492249,account,automatic
+720,Something is broken and I cannot generate a document.,technical,0.99558025598526,technical,automatic
+2587,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+347,The application crashes when I save a project.,technical,0.9956438541412354,technical,automatic
+4648,I think the platform would be better with a mobile application.,feature_request,0.993990957736969,feature_request,automatic
+3626,Can you explain how this works?,general,0.9942911863327026,general,automatic
+2503,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+2489,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+4126,Can you explain how this works?,general,0.9942911863327026,general,automatic
+4232,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+4513,Could you implement an improved search system?,feature_request,0.9945132732391357,feature_request,automatic
+3333,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+4952,I want to stop using the service.,cancellation,0.9870911836624146,cancellation,automatic
+2162,How can I change my password?,account,0.994441568851471,account,automatic
+1719,How can I change my password?,account,0.994441568851471,account,automatic
+2471,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+3248,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+3498,My payment was declined.,billing,0.9941878318786621,billing,automatic
+632,Something is broken and I cannot export a report.,technical,0.9956831932067871,technical,automatic
+2798,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+3588,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+213,The application is not working correctly when I open a document.,technical,0.995646059513092,technical,automatic
+2042,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+201,The software freezes when I open the dashboard.,technical,0.995598554611206,technical,automatic
+4472,Could you implement dark mode?,feature_request,0.9943963289260864,feature_request,automatic
+4628,I would like the platform to support additional export formats.,feature_request,0.9944109320640564,feature_request,automatic
+1849,How can I change my password?,account,0.994441568851471,account,automatic
+1228,I keep receiving an error while trying to download a file.,technical,0.9955896139144897,technical,automatic
+1569,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+2113,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
+1573,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+4185,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+431,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+3242,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+2066,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+4161,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+1266,I keep receiving an error while trying to import data.,technical,0.9955884218215942,technical,automatic
+1191,There is a bug preventing me from export a report.,technical,0.9956632256507874,technical,automatic
+2603,I forgot my password and cannot access my account.,account,0.9945453405380249,account,automatic
+30,The system stops working whenever I open the dashboard.,technical,0.9956005811691284,technical,automatic
+3403,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+438,I am getting an error when I try to download a file.,technical,0.9956218600273132,technical,automatic
+4219,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+2742,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+2347,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+4807,How do I terminate my subscription?,cancellation,0.9877762794494629,cancellation,automatic
+4854,How do I terminate my subscription?,cancellation,0.9877762794494629,cancellation,automatic
+2106,My account is locked and I cannot sign in.,account,0.994529664516449,account,automatic
+1210,I keep receiving an error while trying to export a report.,technical,0.9956092238426208,technical,automatic
+4711,I would like to request a new feature for advanced reporting.,feature_request,0.9943490624427795,feature_request,automatic
+3416,I need a copy of my invoice.,billing,0.9941713213920593,billing,automatic
+1194,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+4268,I have a general question about the service.,general,0.9942752718925476,general,automatic
+3138,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+176,There is a bug preventing me from export a report.,technical,0.9956632256507874,technical,automatic
+4690,Is it possible to add an improved search system?,feature_request,0.9944037199020386,feature_request,automatic
+2104,I cannot log into my account.,account,0.9945493340492249,account,automatic
+3614,Can you give me more information about the service?,general,0.9943899512290955,general,automatic
+4897,How can I cancel my account?,cancellation,0.9871755242347717,cancellation,automatic
+4726,Could you add advanced reporting to the application?,feature_request,0.9944127202033997,feature_request,automatic
+462,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+2464,How can I change my password?,account,0.994441568851471,account,automatic
+1183,The application crashes when I download a file.,technical,0.9956414699554443,technical,automatic
+3835,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+1479,I keep receiving an error while trying to open the dashboard.,technical,0.9955775737762451,technical,automatic
+4148,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+3706,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+215,The application is not working correctly when I upload a file.,technical,0.9957114458084106,technical,automatic
+3796,Can you explain how this works?,general,0.9942911863327026,general,automatic
+2000,I cannot access my account after changing my password.,account,0.9945858716964722,account,automatic
+3942,Where can I find the documentation?,general,0.9943321943283081,general,automatic
+4661,Could you add additional export formats to the application?,feature_request,0.9944446682929993,feature_request,automatic
+1633,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+2148,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+3430,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+1071,I am getting an error when I try to open the dashboard.,technical,0.9954860806465149,technical,automatic
+4756,I would like to cancel my plan.,cancellation,0.9871312975883484,cancellation,automatic
+4461,Could you add a mobile application to the application?,feature_request,0.9944252967834473,feature_request,automatic
+2836,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+3790,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+158,Something is broken and I cannot download a file.,technical,0.9955253005027771,technical,automatic
+2539,How can I change my password?,account,0.994441568851471,account,automatic
+987,The system stops working whenever I open a document.,technical,0.9956089854240417,technical,automatic
+4995,How do I terminate my subscription?,cancellation,0.9877762794494629,cancellation,automatic
+3408,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+3385,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+1220,I keep receiving an error while trying to export a report.,technical,0.9956092238426208,technical,automatic
+1092,The system stops working whenever I save a project.,technical,0.9956034421920776,technical,automatic
+3876,Where can I find more information about this product?,general,0.9943804144859314,general,automatic
+711,The software freezes when I open a document.,technical,0.9955911636352539,technical,automatic
+4423,I think the platform would be better with advanced reporting.,feature_request,0.9942681789398193,feature_request,automatic
+718,I keep receiving an error while trying to open a document.,technical,0.9955629110336304,technical,automatic
+1977,How do I change my account permissions?,account,0.9944683313369751,account,automatic
+2014,I cannot log into my account.,account,0.9945493340492249,account,automatic
+287,I am getting an error when I try to download a file.,technical,0.9956218600273132,technical,automatic
+1429,I keep receiving an error while trying to import data.,technical,0.9955885410308838,technical,automatic
+3915,I would like more information about your plans.,general,0.9942448735237122,general,automatic
+64,There is a bug preventing me from open the dashboard.,technical,0.9954804182052612,technical,automatic
+2946,I was charged the wrong amount.,billing,0.9943405389785767,billing,automatic
+3340,I do not recognize a charge on my account.,billing,0.9941589832305908,billing,automatic
+2800,The subscription price on my invoice is incorrect.,billing,0.9942976832389832,billing,automatic
+3532,I was charged twice for my subscription.,billing,0.9942252039909363,billing,automatic
+4200,Can you tell me more about the platform?,general,0.9943197965621948,general,automatic
+3701,How does the platform work?,general,0.9940698146820068,general,automatic
+414,Something is broken and I cannot import data.,technical,0.9955984354019165,technical,automatic
+4173,How does the platform work?,general,0.9940698146820068,general,automatic
+894,The system stops working whenever I import data.,technical,0.9956479668617249,technical,automatic
+3030,Why was I charged for this month?,billing,0.9941787719726562,billing,automatic
+2443,I need to update the email address on my profile.,account,0.9944477081298828,account,automatic
